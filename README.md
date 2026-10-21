@@ -1,1 +1,1 @@
-这是本项目的代码
+Scripts for Rice RdDM analysis
